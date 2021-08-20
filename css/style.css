@@ -60,11 +60,9 @@ nav ul {
 
 .main-nav li a {
     color: #355834;
+    display: block;
 }
 
-.main-nav li:hover a {
-    font-weight: 700;
-}
 
 .main-nav {
     display: none;
