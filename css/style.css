@@ -147,7 +147,7 @@ section {
 }
 
 .about .section-title {
-    color: rgb(240, 239, 239);
+    color: #DAA520;
 }
 
 .about p {
@@ -253,6 +253,10 @@ section {
 
 .contact .section-title {
     margin-bottom: 0.3em;
+}
+
+.contact address {
+    color: #202020dc;
 }
 
 .social-nav {
